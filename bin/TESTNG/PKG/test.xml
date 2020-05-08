@@ -1,0 +1,9 @@
+<suite name="test_suite">  
+<test name="Before Methods">  
+<classes>  
+<class name="TESTNG.PKG.Homepage"/>  
+<class name="TESTNG.PKG.Test1"/>  
+<class name="TESTNG.PKG.TestNgBasic"/>  
+</classes>  
+</test> <!-- Test -->  
+</suite> <!-- Suite -->
