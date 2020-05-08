@@ -16,11 +16,12 @@ public class TestNgBasic {
 		System.setProperty("webdriver.chrome.driver", "//home//shashwat//Desktop//newfolder//chromedriver.exe");
 	    WebDriver driver= new ChromeDriver();
 	    driver.get("https://www.amazon.in/");
-		
 	}
 	
 	@Test
-    
+	public void LOgin() {
+		System.out.println("this is login page");
+	}
 	@AfterClass
 	
 public void setUP() {
